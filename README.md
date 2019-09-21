@@ -1,1 +1,1 @@
-vistastienda
+Vistas para tienda
