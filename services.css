@@ -141,6 +141,20 @@
   max-width: 800px;
 }
 
+.ms-icon {
+  width: 40px;
+  height: 40px;
+  font-size: 18px;
+  background-color: var(--colorPpal);
+  color: #fff;
+  border-radius: 2px;
+  display: inline-block;
+  margin: 0 5px 5px 0;
+  text-align: center;
+  line-height: 2.2;
+}
+
+
 .ms-icon-feature {
   display: table;
   margin-bottom: 60px;
@@ -162,5 +176,99 @@
 .ms-icon-feature .ms-icon-feature-content h4 {
   font-weight: 400;
   margin: 0 0 10px;
+}
+
+.ms-icon.color-info {
+  color: #fff!important;
+  background-color: #00bcd4;
+}
+
+.ms-icon.color-warning {
+  color: #fff!important;
+  background-color: var(--colorPpal);
+}
+
+.ms-icon.color-danger {
+  color: #fff!important;
+  background-color: #f44336;
+}
+
+.ms-icon.color-success {
+  color: #fff!important;
+  background-color: #4caf50;
+}
+
+.ms-icon.color-black {
+  color: #fff!important;
+  background-color: #000;
+}
+
+.ms-icon.ms-icon-inverse {
+  background-color: transparent;
+  color: var(--colorPpal);
+  border: solid 1px var(--colorPpal);
+}
+
+.ms-icon.ms-icon-inverse.color-info {
+  background-color: transparent;
+  border-color: #00bcd4;
+  color: #00bcd4!important;
+}
+
+.ms-icon.ms-icon-inverse.color-warning {
+  background-color: transparent;
+  border-color: var(--colorPpal);
+  color: var(--colorPpal)!important;
+}
+
+.ms-icon.ms-icon-inverse.color-danger {
+  background-color: transparent;
+  border-color: #f44336;
+  color: #f44336!important;
+}
+
+.ms-icon.ms-icon-inverse.color-success {
+  background-color: transparent;
+  border-color: #4caf50;
+  color: #4caf50!important;
+}
+
+.ms-icon.ms-icon-inverse.color-black {
+  background-color: transparent;
+  border-color: #000;
+  color: #000!important;
+}
+
+.ms-icon.ms-icon-round {
+  border-radius: 5px;
+}
+
+.ms-icon.ms-icon-circle {
+  border-radius: 50%;
+}
+
+.ms-icon.ms-icon-lg {
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 22px;
+}
+
+.ms-icon.ms-icon-sm {
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  font-size: 14px;
+}
+
+.ms-icon.ms-icon-white {
+  background-color: #fff;
+  color: var(--colorPpal);
+}
+
+.ms-icon.ms-icon-white.ms-icon-inverse {
+  background-color: transparent;
+  color: #fff;
+  border-color: #fff;
 }
 
