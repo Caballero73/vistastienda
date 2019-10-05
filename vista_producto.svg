@@ -107,7 +107,7 @@ viewBox="0 0 1200 2084"
    <glyph unicode="f" horiz-adv-x="291" d="M169.017 0l0 416.98 117.001 0 0 67.0399 -117.001 0 0 26.0081c0,73.9848 18.9923,139.962 93.9692,139.962 25.0159,0 43.0161,-4.96067 55.9847,-10.9843l12.0473 67.9612c-17.008,7.0158 -44.0082,14.0316 -75.0478,14.0316 -40.961,0 -84.9692,-12.9686 -117.993,-45.0004 -40.961,-38.9767 -55.9847,-100.985 -55.9847,-169.017l0 -22.9608 -67.9612 0 0 -67.0399 67.9612 0 0 -416.98 87.0243 0z"/>
    <glyph unicode="3" horiz-adv-x="513" d="M42.024 33.0239c31.9609,-21.0474 95.9535,-44.0082 168.946,-44.0082 156.048,0 237.049,90.9928 237.049,194.954 0,91.0637 -64.9848,151.017 -144.993,167.033l0 1.98427c80.0085,28.9845 119.977,86.0322 119.977,153.001 0,79.0164 -57.969,154.985 -186.025,154.985 -69.9454,0 -135.993,-24.9451 -170.009,-49.961l23.0317 -63.9926c27.9923,19.9844 78.0242,42.9452 129.97,42.9452 81.0006,0 114.025,-45.9925 114.025,-97.9378 0,-77.0321 -81.0006,-110.056 -144.993,-110.056l-48.9689 0 0 -65.9769 48.9689 0c84.9692,0 167.033,-38.9767 168.025,-129.97 0.992134,-54.0004 -34.016,-126.001 -147.048,-126.001 -60.9454,0 -118.985,24.9451 -144.001,40.961l-23.9529 -67.9612z"/>
    <glyph unicode="D" horiz-adv-x="665" d="M76.0146 1.98422c43.9836,-5.0078 95.9985,-7.98413 157.982,-7.98413 131.006,0 234.988,34.0152 298.011,96.9906 62.9754,62.0305 96.9906,152.029 96.9906,262.012 0,108.99 -35.0073,186.989 -95.0064,241.98 -59.0069,55.0385 -148.013,83.9987 -272.972,83.9987 -69.0225,0 -131.998,-5.99991 -185.005,-13.984l0 -663.013zm86.975 598.998c23.0075,5.0078 57.0227,9.02348 101.998,9.02348 184.013,0 274.011,-101.006 273.019,-260.027 0,-181.981 -101.006,-285.964 -287.003,-285.964 -34.0152,0 -65.999,0.99211 -88.0144,5.0078l0 531.96z"/>
-   <glyph unicode="A" horiz-adv-x="611" d="M424.009 211.981l71.9989 -211.981 92.9749 0 -229.981 674.021 -105.022 0 -228.989 -674.021 89.9986 0 70.0146 211.981 239.004 0zm-221.004 68.0304l65.999 194.973c12.9919,41.0072 23.9996,82.0145 34.0152,122.03l1.98422 0c10.0156,-39.023 19.9839,-78.9909 35.0073,-123.022l65.999 -193.981 -203.005 0z"/>
+   <glyph unicode="A" horiz-adv-x="611" d="M423.97 212.018l72.0283 -212.018 93.0202 0 -229.992 673.97 -105.025 0 -229.008 -673.97 90.0026 0 69.9948 212.018 238.979 0zm-220.939 67.9612l65.9932 195.028c12.9887,40.9997 23.9438,81.9995 33.9806,122.015l1.96799 0c10.0367,-39.0318 20.0079,-79.0475 35.0302,-122.999l65.9932 -194.044 -202.965 0z"/>
    <glyph unicode="R" horiz-adv-x="537" d="M75.9702 0l87.0396 0 0 292.021 81.9661 0c79.0011,-3.0309 115.042,-38.0181 135.007,-131.054 19.042,-83.9428 33.9988,-141.991 45.0023,-160.967l90.0046 0c-13.9685,26.0262 -29.9796,90.9929 -51.9866,185.017 -16.0111,69.9743 -46.979,118.008 -99.0314,135.995l0 2.96501c71.0285,24.0495 127.034,83.0204 127.034,172.037 0,51.9866 -18.9761,97.9772 -52.9749,127.957 -42.0373,38.0181 -102.062,55.0175 -195.032,55.0175 -60.025,0 -123.015,-5.00758 -167.029,-13.9685l0 -665.019zm87.0396 604.006c13.9685,4.01924 44.014,7.97259 85.9854,7.97259 91.9813,-0.988338 155.037,-39.0064 155.037,-125.98 0,-77.0244 -59.0367,-128.023 -152.006,-128.023l-89.0163 0 0 246.03z"/>
    <glyph unicode="0" horiz-adv-x="513" d="M261.994 660.974c-132.025,0 -225.994,-119.977 -225.994,-337.963 1.98427,-215.01 88.0164,-333.995 215.01,-333.995 144.001,0 225.994,121.962 225.994,342.995 0,207.002 -78.0242,328.963 -215.01,328.963zm-4.96067 -67.9612c90.9928,0 131.954,-105.024 131.954,-265.041 0,-165.97 -43.0161,-270.994 -133.017,-270.994 -79.9376,0 -131.954,96.0244 -131.954,265.041 0,176.954 55.9847,270.994 133.017,270.994z"/>
    <glyph unicode="c" horiz-adv-x="448" d="M402.986 83.9987c-24.9917,-11.0077 -57.9676,-23.9996 -107.998,-23.9996 -95.9985,0 -167.997,69.0225 -167.997,180.989 0,101.006 59.9991,183.021 171.021,183.021 47.9992,0 80.9751,-11.0077 101.998,-23.0075l19.9839 67.9832c-23.9996,11.9998 -70.0146,24.9917 -121.982,24.9917 -158.029,0 -260.027,-107.998 -260.027,-256.957 0,-148.013 95.0064,-247.035 241.036,-247.035 64.9596,0 115.982,16.0155 138.99,28.0153l-15.0234 65.999z"/>
@@ -135,6 +135,7 @@ viewBox="0 0 1200 2084"
    <glyph unicode="N" horiz-adv-x="657" d="M158.002 0l0 288.002c0,112.012 -1.97668,192.989 -6.98425,277.986l2.96501 0.988338c33.9988,-73.0052 79.0011,-149.964 126.046,-224.946l213.942 -342.031 88.0279 0 0 673.98 -82.032 0 0 -282.006c0,-104.961 2.04256,-186.993 10.0152,-276.998l-1.97668 -0.988338c-32.0221,68.986 -71.0285,140.014 -121.038,219.016l-215.985 340.976 -95.0122 0 0 -673.98 82.032 0z"/>
    <glyph unicode="," horiz-adv-x="207" d="M79.0011 -117.019c28.0029,47.0449 72.0169,158.002 95.0122,242.999l-98.0431 -9.94927c-10.9376,-73.0052 -37.9522,-180.009 -59.9591,-239.046l62.9901 5.99591z"/>
    <glyph unicode="p" horiz-adv-x="568" d="M72.9927 -198.002l87.0243 0 0 262.986 1.98427 0c28.9845,-47.9768 85.0046,-75.9691 148.997,-75.9691 113.989,0 220.006,85.9967 220.006,259.974 0,147.013 -88.0164,246.014 -205.017,246.014 -78.9809,0 -135.993,-35.0081 -171.993,-94.0047l-1.98427 0 -4.00397 82.9849 -79.0164 0c2.0197,-45.9925 4.00397,-95.9889 4.00397,-157.997l0 -523.988zm87.0243 477.996c0,12.0119 2.9764,25.0159 5.98824,36.0003 17.008,66.0123 72.9927,108.993 132.981,108.993 93.0125,0 144.001,-82.9849 144.001,-180.001 0,-110.977 -54.0004,-186.982 -146.978,-186.982 -63.0005,0 -116.009,41.9885 -132.025,103.005 -1.98427,10.9843 -3.96854,22.9962 -3.96854,36.0003l0 82.9849z"/>
+   <glyph unicode=")" horiz-adv-x="283" d="M87.9748 -121.039c64.0622,85.0226 130.978,212.065 130.978,407.991 0,197.008 -66.916,325.034 -130.978,407.006l-67.9984 0c72.0331,-98.9963 126.058,-226.924 126.058,-405.924 0,-180.083 -55.0089,-310.077 -126.058,-409.073l67.9984 0z"/>
    <glyph unicode="K" horiz-adv-x="541" d="M75.9691 0l87.0243 0 0 257.034 63.9926 73.9848 222.025 -331.018 102.969 0 -262.986 387.995 243.994 286.018 -108.001 0 -206.009 -252.994c-17.008,-22.0395 -35.0081,-45.9925 -53.0083,-72.0006l-2.9764 0 0 324.995 -87.0243 0 0 -674.013z"/>
    <glyph unicode="m" horiz-adv-x="834" d="M72.9927 0l86.0322 0 0 291.971c0,15.0237 1.98427,30.0475 6.94494,43.0161 14.0316,44.0082 54.0004,88.0164 109.064,88.0164 66.969,0 100.985,-55.9847 100.985,-133.017l0 -289.987 85.9613 0 0 298.987c0,16.0159 3.04727,32.0317 7.0158,44.0082 15.0237,43.0161 54.0004,80.0085 104.032,80.0085 70.9376,0 104.954,-55.9847 104.954,-149.033l0 -273.971 86.0322 0 0 285.026c0,167.954 -95.0322,209.978 -159.025,209.978 -45.9925,0 -78.0242,-11.9765 -107.009,-34.016 -19.9844,-14.9529 -38.9767,-36.0003 -54.0004,-63.0005l-1.98427 0c-20.9765,57.0477 -71.0084,97.0165 -136.985,97.0165 -80.0085,0 -125.009,-43.0161 -152.009,-89.0086l-2.9764 0 -4.0394 78.0242 -76.9612 0c2.9764,-40.0397 3.96854,-81.0006 3.96854,-131.033l0 -352.987z"/>
    <glyph unicode="¿" horiz-adv-x="405" d="M236.974 488.991c-34.975,0 -58.9689,-25.9705 -58.9689,-61.9887 0,-35.0299 23.0055,-62.977 58.9689,-62.977 36.0182,0 59.0238,27.9471 59.0238,62.977 0,36.0182 -23.0055,61.9887 -59.0238,61.9887zm-39.4773 -203.975l0.988305 -26.0254c3.01982,-51.0075 -13.1774,-93.0105 -56.4981,-145.995 -48.976,-56.004 -86.9708,-103.992 -86.9708,-172.02 0,-75.9897 52.9841,-146.983 167.463,-146.983 53.039,0 110.031,17.0208 144.018,40.0264l-23.9939 63.9653c-26.0254,-19.9857 -65.9968,-30.9669 -101.027,-30.9669 -64.13,0 -95.4812,33.9867 -95.4812,84.9942 0,44.9679 24.1586,81.9744 69.5108,136.002 50.0192,60.0121 69.0166,117.004 62.977,170.977l-2.96492 26.0254 -78.0212 0z"/>
@@ -161,6 +162,7 @@ viewBox="0 0 1200 2084"
    <glyph unicode="a" horiz-adv-x="481" d="M420.984 0c-5.98824,32.9884 -7.9725,73.9848 -7.9725,116.009l0 180.994c0,96.9811 -36.0003,198.002 -184.005,198.002 -61.0162,0 -119.021,-17.008 -158.989,-43.0161l19.9844 -58.0044c34.016,22.0041 81.0006,36.0003 126.001,36.0003 99.0008,0 109.985,-72.0006 109.985,-111.969l0 -10.0276c-186.982,1.02757 -290.979,-63.0005 -290.979,-180.001 0,-69.9809 49.9965,-138.97 148.005,-138.97 68.9887,0 120.969,33.9806 147.97,72.0006l3.01183 0 7.0158 -61.0162 79.9731 0zm-92.9771 162.993c0,-9.00007 -2.0197,-18.9923 -4.9961,-27.9923 -13.9962,-40.9964 -54.0004,-81.0006 -117.001,-81.0006 -45.0004,0 -83.0203,27.0002 -83.0203,84.0125 0,94.0047 109.028,110.977 205.017,108.993l0 -84.0125z"/>
    <glyph unicode="M" horiz-adv-x="803" d="M660.974 0l85.04 0 -42.024 674.013 -110.977 0 -119.977 -325.987c-30.0475,-85.04 -54.0004,-159.025 -71.0084,-227.057l-3.04727 0c-17.008,70.0163 -39.9688,144.001 -67.9612,227.057l-115.017 325.987 -110.977 0 -47.0555 -674.013 83.0558 0 18.0001 288.994c5.9528,100.985 10.9843,214.017 12.9686,297.994l1.98427 0c18.9923,-80.0085 45.9925,-166.962 78.0242,-261.994l108.993 -321.026 65.9769 0 119.056 327.05c33.9451,92.9771 61.9375,176.954 84.9692,255.971l2.9764 0c-0.992134,-83.977 5.03154,-197.009 9.9922,-290.979l17.008 -296.01z"/>
    <glyph unicode="o" horiz-adv-x="549" d="M278.01 495.004c-134.009,0 -240.026,-94.9968 -240.026,-256.998 0,-153.001 101.02,-248.99 232.018,-248.99 117.001,0 240.982,77.9888 240.982,256.998 0,147.97 -93.9692,248.99 -232.974,248.99zm-2.0197 -66.0123c103.997,0 144.993,-103.997 144.993,-185.99 0,-108.993 -63.0005,-188.009 -146.978,-188.009 -85.9967,0 -147.013,80.0085 -147.013,186.025 0,91.985 45.0004,187.974 148.997,187.974z"/>
+   <glyph unicode="(" horiz-adv-x="283" d="M195.04 693.958c-63.0781,-83.9402 -129.994,-211.966 -131.077,-408.975 0,-194.942 67.9984,-322.968 131.077,-406.022l68.9825 0c-71.049,100.079 -126.058,228.006 -126.058,406.022 0,180.968 53.0407,311.061 126.058,408.975l-68.9825 0z"/>
    <glyph unicode="9" horiz-adv-x="513" d="M96.0005 -10.0152c21.0186,-0.988338 49.0215,0 80.9778,5.00758 70.0402,8.03848 139.026,38.0181 189.036,87.0396 63.9784,61.9358 112.012,161.956 112.012,304.935 0,166.041 -82.032,274.033 -214.996,274.033 -133.03,0 -222.047,-107.992 -222.047,-231.007 0,-111.023 75.0478,-198.985 192.001,-198.985 65.0326,0 117.019,25.9603 152.995,69.9743l3.0309 0c-11.9918,-76.9586 -43.0256,-133.953 -85.9854,-172.959 -37.0297,-35.053 -84.997,-56.0058 -135.995,-62.9901 -30.0455,-3.0309 -52.0524,-5.00758 -71.0285,-3.0309l0 -72.0169zm159.979 604.006c92.0472,0 133.03,-84.997 133.03,-196.02 0,-13.9685 -3.0309,-23.9837 -8.03848,-31.9562 -22.9953,-39.0064 -68.986,-67.9976 -127.957,-67.9976 -76.0361,0 -124.992,56.9941 -124.992,137.972 0,91.9813 52.9749,158.002 127.957,158.002z"/>
    <glyph unicode="l" horiz-adv-x="235" d="M72.9927 0l88.0164 0 0 710.013 -88.0164 0 0 -710.013z"/>
    <glyph unicode="ñ" horiz-adv-x="554" d="M73.0248 0l87.9592 0 0 291.001c0,14.9893 2.03152,29.9786 6.03964,41.0147 14.9893,48.976 59.9572,89.9907 117.993,89.9907 82.9627,0 112.008,-65.0085 112.008,-143.03l0 -278.977 87.9592 0 0 289.024c0,165.98 -103.992,205.952 -170.977,205.952 -79.9978,0 -136.002,-44.9679 -159.996,-90.979l-2.03152 0 -4.99643 79.9978 -77.9663 0c2.96492,-39.9714 4.00813,-80.9861 4.00813,-131.005l0 -352.99zm129.962 567.013c2.03152,28.002 9.99286,44.9679 26.0254,44.9679 11.9695,0 23.0055,-5.98474 42.9913,-17.9542 20.974,-11.0361 39.9714,-20.0406 61.0004,-20.0406 46.9994,0 70.0049,34.0416 69.0166,101.027l-46.9994 0c-2.03152,-33.9867 -12.0244,-42.9913 -28.002,-42.9913 -12.0244,0 -26.0254,7.96135 -42.003,16.9659 -23.0055,13.0127 -40.0264,22.0172 -62.0436,22.0172 -42.9913,0 -69.95,-38.9831 -67.9734,-103.992l47.9877 0z"/>
@@ -335,11 +337,12 @@ viewBox="0 0 1200 2084"
     .fil8 {fill:black;fill-opacity:0.000000}
     .fnt17 {font-weight:normal;font-size:11.1945px;font-family:'Open Sans'}
     .fnt3 {font-weight:normal;font-size:11.3386px;font-family:'Open Sans'}
+    .fnt45 {font-weight:normal;font-size:12.0024px;font-family:'Myriad Pro'}
     .fnt16 {font-weight:normal;font-size:14.9256px;font-family:'Open Sans'}
     .fnt14 {font-weight:300;font-size:15.5079px;font-family:'Open Sans Light'}
     .fnt11 {font-weight:300;font-size:15.5079px;font-family:'Open Sans Light'}
     .fnt13 {font-weight:normal;font-size:15.5079px;font-family:'Open Sans'}
-    .fnt52 {font-weight:normal;font-size:15.6898px;font-family:'Myriad Pro'}
+    .fnt53 {font-weight:normal;font-size:15.6898px;font-family:'Myriad Pro'}
     .fnt5 {font-weight:300;font-size:16.6666px;font-family:'Open Sans Light'}
     .fnt7 {font-weight:300;font-size:16.6666px;font-family:'Open Sans Light'}
     .fnt9 {font-weight:300;font-size:16.6666px;font-family:'Open Sans Light'}
@@ -353,7 +356,7 @@ viewBox="0 0 1200 2084"
     .fnt37 {font-weight:normal;font-size:16.6666px;font-family:'Myriad Pro'}
     .fnt39 {font-weight:normal;font-size:16.6666px;font-family:'Myriad Pro'}
     .fnt41 {font-weight:normal;font-size:16.6666px;font-family:'Myriad Pro'}
-    .fnt50 {font-weight:normal;font-size:16.6666px;font-family:'Myriad Pro'}
+    .fnt51 {font-weight:normal;font-size:16.6666px;font-family:'Myriad Pro'}
     .fnt6 {font-weight:normal;font-size:16.6666px;font-family:'Open Sans'}
     .fnt10 {font-weight:normal;font-size:16.6666px;font-family:'Open Sans'}
     .fnt26 {font-weight:bold;font-size:16.6666px;font-family:'Myriad Pro'}
@@ -363,35 +366,35 @@ viewBox="0 0 1200 2084"
     .fnt34 {font-weight:bold;font-size:16.6666px;font-family:'Myriad Pro'}
     .fnt36 {font-weight:bold;font-size:16.6666px;font-family:'Myriad Pro'}
     .fnt38 {font-weight:bold;font-size:16.6666px;font-family:'Myriad Pro'}
-    .fnt51 {font-weight:bold;font-size:16.6666px;font-family:'Myriad Pro'}
+    .fnt52 {font-weight:bold;font-size:16.6666px;font-family:'Myriad Pro'}
     .fnt1 {font-weight:normal;font-size:17.5654px;font-family:'Open Sans'}
     .fnt15 {font-weight:normal;font-size:17.6918px;font-family:'Open Sans'}
     .fnt43 {font-weight:normal;font-size:17.9256px;font-family:'Myriad Pro'}
-    .fnt54 {font-weight:normal;font-size:17.9256px;font-family:'Myriad Pro'}
+    .fnt55 {font-weight:normal;font-size:17.9256px;font-family:'Myriad Pro'}
+    .fnt44 {font-weight:normal;font-size:18.0048px;font-family:'Myriad Pro'}
     .fnt8 {font-weight:normal;font-size:18.6189px;font-family:'Open Sans'}
-    .fnt47 {font-weight:normal;font-size:18.7134px;font-family:'Myriad Pro'}
+    .fnt48 {font-weight:normal;font-size:18.7134px;font-family:'Myriad Pro'}
     .fnt12 {font-weight:300;font-size:19.3855px;font-family:'Open Sans Light'}
     .fnt20 {font-weight:300;font-size:19.9996px;font-family:'Myriad Pro Light'}
-    .fnt49 {font-weight:normal;font-size:20.2477px;font-family:'Myriad Pro'}
+    .fnt50 {font-weight:normal;font-size:20.2477px;font-family:'Myriad Pro'}
     .fnt4 {font-weight:300;font-size:20.8335px;font-family:'Open Sans Light'}
     .fnt2 {font-weight:bold;font-size:20.9682px;font-family:'Open Sans'}
     .fnt42 {font-weight:normal;font-size:21.5115px;font-family:'Myriad Pro'}
-    .fnt53 {font-weight:normal;font-size:21.5115px;font-family:'Myriad Pro'}
+    .fnt54 {font-weight:normal;font-size:21.5115px;font-family:'Myriad Pro'}
     .fnt19 {font-weight:bold;font-size:22.8119px;font-family:'Open Sans'}
     .fnt22 {font-weight:normal;font-size:22.9406px;font-family:'Arial'}
     .fnt24 {font-weight:normal;font-size:22.9406px;font-family:'Arial'}
     .fnt40 {font-weight:normal;font-size:22.9406px;font-family:'Arial'}
-    .fnt45 {font-weight:normal;font-size:23.393px;font-family:'Myriad Pro'}
+    .fnt46 {font-weight:normal;font-size:23.393px;font-family:'Myriad Pro'}
     .fnt0 {font-weight:normal;font-size:23.5382px;font-family:'Open Sans'}
     .fnt21 {font-weight:normal;font-size:25.0004px;font-family:'Myriad Pro'}
-    .fnt44 {font-weight:normal;font-size:25.0004px;font-family:'Myriad Pro'}
-    .fnt48 {font-weight:bold;font-size:28.069px;font-family:'Myriad Pro'}
+    .fnt49 {font-weight:bold;font-size:28.069px;font-family:'Myriad Pro'}
     .fnt18 {font-weight:normal;font-size:33.3331px;font-family:'Myriad Pro'}
-    .fnt46 {font-weight:bold;font-size:36.8824px;font-family:'Myriad Pro'}
+    .fnt47 {font-weight:bold;font-size:36.8824px;font-family:'Myriad Pro'}
    ]]>
   </style>
    <clipPath id="id0">
-    <rect x="919" y="413" width="159" height="101"/>
+    <rect x="919" y="847" width="159" height="101"/>
    </clipPath>
     <clipPath id="id1">
      <path d="M69 1152l1090 0 0 318 -1090 0 0 -318z"/>
@@ -436,19 +439,19 @@ viewBox="0 0 1200 2084"
      <rect x="204" y="617" width="79.9986" height="79.9986"/>
     </clipPath>
    <clipPath id="id15">
-    <rect x="892" y="510" width="215" height="162"/>
+    <rect x="891" y="944" width="215" height="162"/>
    </clipPath>
     <clipPath id="id16">
-     <rect x="892" y="510" width="215" height="162"/>
+     <rect x="891" y="944" width="215" height="162"/>
     </clipPath>
     <clipPath id="id17">
-     <path d="M864 865l277 0 0 273 -277 0 0 -273z"/>
+     <path d="M864 495l277 0 0 272 -277 0 0 -272z"/>
     </clipPath>
  </defs>
  <g id="Capa_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
   <g style="clip-path:url(#id0)">
-   <image x="919" y="413" width="159" height="101" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAncAAAGQCAIAAAE0BuEEAAAACXBIWXMA
+   <image x="919" y="847" width="159" height="101" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAncAAAGQCAIAAAE0BuEEAAAACXBIWXMA
 AAsSAAALEgHS3X78AAAgAElEQVR4nOxdB2AUxdefmS13l0oIEHpNKFIUFEgCpIF0sFClFxHpHUQF
 aYogvfcuCCggVWoKkAQLCkivoZcQ0q9sme/NbhICJEhR/3Lf/ozhsrdl3rw+OzOPV1UV/b8B/79u
 wL8Kg1rnhUGt88Kg1nlhUOu8MKh1XhjUOi+eiVpKHRjDmQQh1SFjkcf/dLP+IeRMLaSBlEqEM6lK
@@ -2451,8 +2454,8 @@ IIhRQVaWIAiCIEYFWVmCIAiCGBVkZQmCIAhiVJCVJQiCIIhRQVaWIAiCIEYFWVmCIAiCGBVkZQmC
 IAhiVJCVJQiCIIhRQVaWIAiCIEYFWVmCIAiCGBVkZQmCIAhiVJCVJQiCIIhRQVaWIAiCIEYFWVmC
 IAiCGBVkZQmCIAhiVPxf5QN7ZdUiQEkAAAAASUVORK5CYII="/>
   </g>
-  <rect class="fil0" x="866" y="359" width="265.001" height="43.905"/>
-  <g id="_992092080">
+  <rect class="fil0" x="866" y="793" width="265.001" height="43.905"/>
+  <g id="_996889136">
    <g style="clip-path:url(#id1)">
     <image x="69" y="1152" width="1090" height="318" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAbUAAACACAIAAAF0D1C2AAAACXBIWXMA
 ABJ0AAASdAHeZh94AAAE/0lEQVR4nO3dTW8TVxQG4My1PY5JisgGqrIrjfj/P4c9lcoKieaD2GSm
@@ -6351,33 +6354,34 @@ p0vGyegAAAAASUVORK5CYII="/>
    <text x="600" y="1042"  class="fil17 fnt43">No</text>
   </g>
   <circle class="fil11" cx="450" cy="973" r="4"/>
-  <rect class="fil3 str5" x="866" y="731" width="265.001" height="55.1304"/>
+  <rect class="fil3 str5" x="866" y="370" width="265.001" height="53.1048"/>
   <g>
-   <g id="_989087952">
-    <path class="fil16" d="M914 756c-1,0 -1,1 -2,1 0,0 0,1 -1,1 0,1 -1,2 -1,3 -2,4 2,9 6,9 3,0 6,0 9,0 3,0 6,0 8,0 3,0 5,0 7,-2 1,-2 2,-4 1,-6 0,-1 -1,-2 -2,-3 -1,-1 -1,-1 -2,-1 0,-1 0,-2 0,-3 0,-2 -2,-4 -4,-4 -1,0 -2,1 -3,1 -1,-1 -1,-2 -2,-3 -1,0 -1,-1 -1,-1 -4,-2 -9,-1 -11,2 -2,2 -2,3 -2,6z"/>
-    <path class="fil12" d="M922 760c0,1 0,3 0,4 0,2 0,2 2,2 3,0 2,0 2,-2 0,-1 0,-3 0,-4 1,0 4,0 5,-1 0,0 -1,-1 -1,-1l-3 -3c-3,-3 -2,-3 -4,-1 0,0 -1,0 -1,1l-3 3c-1,0 -1,1 -1,1 0,1 1,1 2,1 1,0 1,0 2,0z"/>
+   <path class="fil16" d="M929 396c0,0 -1,0 -1,0 -1,1 -1,1 -1,1 -1,1 -2,2 -2,3 -1,5 2,9 7,10 2,0 5,0 8,0 3,0 6,0 9,0 2,0 4,0 6,-2 1,-2 2,-4 1,-7 0,-1 -1,-2 -2,-2 -1,-2 -1,-1 -2,-2 0,-1 1,-1 0,-3 0,-2 -2,-3 -4,-3 -1,0 -2,0 -3,1 0,-2 -1,-3 -2,-4 -1,0 -1,0 -1,-1 -4,-2 -9,-1 -11,3 -2,1 -2,3 -2,6z"/>
+   <path class="fil12" d="M937 399c0,2 0,3 0,4 0,3 0,2 3,2 2,0 2,1 2,-2 0,-1 0,-2 0,-4 0,0 4,0 4,0 0,-1 -1,-1 -1,-1l-3 -4c-3,-2 -2,-2 -4,-1 0,1 0,1 -1,1l-3 4c0,0 -1,0 -1,1 1,0 2,0 2,0 1,0 2,0 2,0z"/>
+   <g transform="matrix(0.999995 0 0 1 422.773 -645.561)">
+    <text x="550" y="1042"  class="fil22 fnt44">Subir Archivo</text>
    </g>
-   <g transform="matrix(0.999995 0 0 1 349.147 -272.311)">
-    <text x="600" y="1042"  class="fil22 fnt44">Subir Archivo</text>
+   <g transform="matrix(0.999995 0 0 1 422.773 -645.561)">
+    <text x="574" y="1056"  class="fil22 fnt45">(Opcional)</text>
    </g>
   </g>
-  <text x="861" y="286"  class="fil17 fnt45">Precio sin IVA </text>
-  <text x="995" y="286"  class="fil16 fnt46">$ </text>
-  <text x="1023" y="286"  class="fil16 fnt46">692</text>
-  <text x="1084" y="286"  class="fil16 fnt46">58</text>
-  <text x="861" y="330"  class="fil17 fnt47">Precio con IVA</text>
-  <text x="971" y="330"  class="fil17 fnt47"> </text>
-  <text x="975" y="330"  class="fil17 fnt48">$ 8</text>
-  <text x="1012" y="330"  class="fil17 fnt48">44</text>
-  <text x="1043" y="330"  class="fil17 fnt48">95</text>
+  <text x="861" y="286"  class="fil17 fnt46">Precio sin IVA </text>
+  <text x="995" y="286"  class="fil16 fnt47">$ </text>
+  <text x="1023" y="286"  class="fil16 fnt47">692</text>
+  <text x="1084" y="286"  class="fil16 fnt47">58</text>
+  <text x="861" y="330"  class="fil17 fnt48">Precio con IVA</text>
+  <text x="971" y="330"  class="fil17 fnt48"> </text>
+  <text x="975" y="330"  class="fil17 fnt49">$ 8</text>
+  <text x="1012" y="330"  class="fil17 fnt49">44</text>
+  <text x="1043" y="330"  class="fil17 fnt49">95</text>
   <g>
-   <path class="fil12" d="M914 372c0,0 1,1 1,2l1 7c0,0 1,3 1,4 0,0 -1,1 -1,2 0,1 1,1 2,1 -1,0 -2,1 -2,2 0,3 4,3 4,0 0,-1 -1,-2 -1,-2l13 0c0,0 -1,0 -1,1 -1,1 0,3 1,3 1,0 2,-1 2,-2 0,-1 0,-2 -1,-2 0,0 1,0 1,-1 1,-1 0,-1 -1,-1 -1,0 -3,0 -5,0 -3,0 -6,0 -9,0 0,0 0,-1 0,-1 0,0 0,-1 0,-1 5,-1 9,-1 14,-2 4,0 3,1 3,-6 0,-1 0,-2 0,-3 0,-1 0,-1 -1,-1l-15 0c-1,0 -3,0 -4,0 0,-1 0,-2 -1,-2 -1,0 -3,0 -4,0 -1,0 -1,1 0,2 0,0 3,0 3,0z"/>
-   <g transform="matrix(0.999995 0 0 1 351.085 -653.482)">
-    <text x="600" y="1042"  class="fil12 fnt49">Añadir al Carrito</text>
+   <path class="fil12" d="M914 806c0,0 1,2 1,2l1 7c0,1 1,4 1,4 0,1 -1,2 -1,2 0,1 1,1 2,1 -1,1 -2,1 -2,2 0,3 4,3 4,0 0,-1 -1,-1 -1,-2l13 0c0,0 -1,1 -1,1 -1,1 0,3 1,3 1,0 2,-1 2,-2 0,-1 0,-2 -1,-2 0,0 1,0 1,0 1,-1 0,-2 -1,-2 -1,0 -3,0 -5,0 -3,0 -6,0 -9,0 0,0 0,0 0,-1 0,0 0,0 0,-1 5,0 9,-1 14,-1 4,-1 3,0 3,-6 0,-1 0,-2 0,-3 0,-1 0,-2 -1,-2l-15 0c-1,0 -3,0 -4,0 0,-1 0,-2 -1,-2 -1,0 -3,0 -4,0 -1,0 -1,2 0,2 0,0 3,0 3,0z"/>
+   <g transform="matrix(0.999995 0 0 1 351.088 -219.104)">
+    <text x="600" y="1042"  class="fil12 fnt50">Añadir al Carrito</text>
    </g>
   </g>
   <g style="clip-path:url(#id15)">
-   <image style="clip-path:url(#id16)" x="841" y="468" width="307" height="230" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAn4AAAHfCAIAAAE2HXJ3AAAACXBIWXMA
+   <image style="clip-path:url(#id16)" x="840" y="903" width="307" height="230" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAn4AAAHfCAIAAAE2HXJ3AAAACXBIWXMA
 AC4jAAAuIwF4pT92AAAgAElEQVR4nOw9B2AURddTdvcul55QQxGQpvQeauhFeu8ioNJ7U6ogKFIF
 QTqIiEgvAaSXAKH3IojSi0ASUsjlbsvMP7ObnEcSIAlJ+P6YZzy2zM7Mmzfz5s3MKwIhBPyXQHjX
 FUhvyEQ4o0MmwqkKlFIIYZoWkVxIBsIFCxb866+/En21dOmyTz/tmfB5oUKFnD9hOaxcubJq1aop
@@ -8994,46 +8998,46 @@ ZR8zXa0tKxQKheJTmdmo9xbkaWF+F7C7dTtiskMNZbI3xfVCmZN68Q/lAOcH1nDi5tqnyaE+SNZU
 CoVCoZgp7mvpzSHrc8QvUxRP+jIpNBVd37yAX1V9exVsfHkcUi5ztuXDeFbGoezZibMPU+W6CoVC
 ofg0/g/70cz2H/UE2gAAAABJRU5ErkJggg=="/>
   </g>
-  <rect class="fil19" x="863" y="697" width="271.145" height="1.0004"/>
-  <text x="868" y="816"  class="fil22 fnt50">Cargar archivo en PDF ó enviar link de </text>
-  <text x="904" y="836"  class="fil22 fnt50">descarga a </text>
-  <text x="981" y="836"  class="fil22 fnt51">arte@uprint.uy</text>
+  <rect class="fil19" x="863" y="358" width="271.145" height="1.0004"/>
+  <text x="868" y="450"  class="fil22 fnt51">Cargar archivo en PDF ó enviar link de </text>
+  <text x="904" y="471"  class="fil22 fnt51">descarga a </text>
+  <text x="981" y="471"  class="fil22 fnt52">arte@uprint.uy</text>
   <g>
    <g style="clip-path:url(#id17)">
-    <image x="864" y="865" width="277" height="272" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAABuCAIAAAEHWTBhAAAACXBIWXMA
-ABJ0AAASdAHeZh94AAABwUlEQVR4nO3aTW6CQABH8fIhcRTclJXl/ieyB2DL1ibsoMMFDCSP4Jj3
-S5p0Qab/Pmlro+U0TV/rlPHj9/FYe+mGU730Ey/dcGetvK02DvDSD7003lnr7xj+63uoh3rohx16
-/7nDh67/+7fhUPz3Xvy+03qgPNRDPdRDPdRDPfT9DsWfSNV1s8t/fLi9nkrtwaE0h9IcSnMozaE0
-h9IcSnMozaE0h9IcSnMoLZ2he7w8toey7/u/5/PoGa/UTdN1XToP/dED1nIozaE0h9IcSnMozaE0
-h9IcSnMozaE0h9IcSnMozaE0h9IcSnMozaE0h9IcSnMozaE0h9IcSnMorWzb79utOXrGK1VVFUWx
-vJ1oGIZxHI/ek7YQwvV6CeGy3KKx5pu/8ykJp1N5PodkfuZTYVCYQWEGhRkUZlCYQWEGhRkUZlCY
-QWEGhRkUZlCYQWEGhRkUZlCYQWEGhRkUZlCYQWEGhRkUZlCYQWEGhRkUZlCYQWEGhRkUZlCYQWEG
-hRkUZlCYQWEGhRkUZlCYQWEGhRkUZlCYQWEGhRkUZlCYQWFL0BDC0TOSFxtWVZVl2RK0bdt5no+e
-lLaYMs/z+Mk/avg7yLwHrycAAAAASUVORK5CYII="/>
+    <image x="864" y="495" width="277" height="272" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAABuCAIAAAEHWTBhAAAACXBIWXMA
+ABJ0AAASdAHeZh94AAABz0lEQVR4nO3dy07CQABGYUubmqYXF8wKX0De/1Vw3bBjjwk76jTsYUhO
+00vOF12Y1PHPEQWjkeJ+v5/P548ERXz9u15TL03kpVu9tO/71EsTb1ZvDvDSjV4av2f9nk7p7wB/
+fA/1UA/d2KE/xyN8aPr9X6IQ9m/cUybqunZdnygP9VAP9VAP9VAPXd6h+AOpPM8n+YkPd/g+TJJ0
+Cg6lOZTmUJpDaQ6lOZTmUJpDaQ6lOZTmUJpDaePQpm3nnvFCWZbF5XK53W5zL3mmqqoQQhFX4r91
+ww3DsKrb6Co4lOZQmkNpDqU5lOZQmkNpDqU5lOZQmkNpDqU5lOZQmkNpDqU5lOZQmkNpDqU5lOZQ
+mkNpDqWtZ2hVVXNveCEuzLKsCCEMwzD3mGfiyt1uVzz+j9Hy/1Bn4Zq27br48rWar6W1MCjMoDCD
+wgwKMyjMoDCDwgwKMyjMoDCDwgwKMyjMoDCDwgwKMyjMoDCDwgwKMyjMoDCDwgwKMyjMoDCDwgwK
+MyjMoDCDwgwKMyjMoDCDwgwKMyjMoDCDwgwKMyjMoDCDwgwKMyjMoDCDwgwKMyjMoDCDwsagIey7
+bunPX7Vw5ehzfN70+EZdN3U996Kt+AcsrD9ewc5GkwAAAABJRU5ErkJggg=="/>
    </g>
   </g>
-  <rect class="fil1 str0" x="863" y="862" width="271" height="266"/>
-  <text x="880" y="890"  class="fil17 fnt52">Si tenés alguna instrucción adicional</text>
-  <text x="927" y="909"  class="fil17 fnt52">por favor indicala acá.</text>
+  <rect class="fil1 str0" x="863" y="492" width="271" height="266"/>
+  <text x="880" y="519"  class="fil17 fnt53">Si tenés alguna instrucción adicional</text>
+  <text x="927" y="538"  class="fil17 fnt53">por favor indicala acá.</text>
   <rect class="fil19" x="444" y="1027" width="394.562" height="0.860907"/>
   <circle class="fil3 str4" cx="450" cy="1082" r="5"/>
   <g transform="matrix(1.00002 0 0 1 -156.657 17.1061)">
-   <text x="600" y="1042"  class="fil11 fnt53">¿Deseás que te enviemos tu pedido?</text>
+   <text x="600" y="1042"  class="fil11 fnt54">¿Deseás que te enviemos tu pedido?</text>
   </g>
   <circle class="fil3 str4" cx="568" cy="1082" r="5"/>
   <g transform="matrix(0.940963 0 0 1 13.3069 45.4337)">
-   <text x="600" y="1042"  class="fil17 fnt54">Si</text>
+   <text x="600" y="1042"  class="fil17 fnt55">Si</text>
   </g>
   <circle class="fil3 str4" cx="450" cy="1082" r="5"/>
   <g transform="matrix(0.940963 0 0 1 -104.869 45.4337)">
-   <text x="600" y="1042"  class="fil17 fnt54">No</text>
+   <text x="600" y="1042"  class="fil17 fnt55">No</text>
   </g>
   <circle class="fil11" cx="450" cy="1082" r="4"/>
   <g transform="matrix(0.940963 0 0 1 -104.708 74.4624)">
-   <text x="600" y="1042"  class="fil16 fnt54">Ver más información sobre los envíos.</text>
+   <text x="600" y="1042"  class="fil16 fnt55">Ver más información sobre los envíos.</text>
   </g>
   <g transform="matrix(0.940963 0 0 1 -104.708 -32.8539)">
-   <text x="600" y="1042"  class="fil16 fnt54">Ver más información sobre el servicio de Diseño.</text>
+   <text x="600" y="1042"  class="fil16 fnt55">Ver más información sobre el servicio de Diseño.</text>
   </g>
  </g>
 </svg>
